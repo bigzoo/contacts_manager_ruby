@@ -4,6 +4,10 @@ A website where you can store and display information about your professional co
 
 by: [Chris Nyaga](http://bigzoo.me/) & [Edward Mudaida](https://edwardmudaida.github.io/)
 
+## Technologies used
+
+`Ruby` `RSpec` `Sinatra` `Bundler` `Sinatra-contrib`
+
 ## Running the project
 
 1. CLone the repo: `$ git clone [URL]`
