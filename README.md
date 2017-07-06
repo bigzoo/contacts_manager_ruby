@@ -18,4 +18,4 @@ Use `$ rspec` to run tests.
 
 ## LICENSE
 
-[MIT LICENSE]()
+[MIT LICENSE](https://github.com/bigzoo/contacts_manager_ruby/blob/master/LICENSE)
