@@ -2,7 +2,7 @@
 
 A website where you can store and display information about your professional contacts such as first name, last name, job title, company. Each contact can have multiple mailing addresses, phone numbers and email addresses. 
 
-by: [Chris Nyaga](http://bigzoo.me/) & [Edward Mudaida](http://edmudaida.getforge.io/)
+by: [Chris Nyaga](http://bigzoo.me/) & [Edward Mudaida](https://edwardmudaida.github.io/)
 
 ## Running the project
 
