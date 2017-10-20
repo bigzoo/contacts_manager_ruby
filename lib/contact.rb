@@ -1,6 +1,6 @@
 class Contact
   @@all_contacts = []
-  attr_reader(:firstname,:lastname,:phone_number,:email,:job_title,:company)
+  attr_reader(:firstname, :lastname, :phone_number, :email, :job_title, :company)
 
   define_method(:initialize) do |attributes|
     @firstname = attributes.fetch(:firstname)
